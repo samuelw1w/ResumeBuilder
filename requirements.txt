@@ -1,0 +1,12 @@
+llama_index
+scrapy
+langchain
+pypdf
+pymupdf
+gradio
+llama-index-core
+streamlit
+haystack-ai
+openai
+pypdf
+python-docx
